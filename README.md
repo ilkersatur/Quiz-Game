@@ -1,1 +1,0 @@
-# Bilgi-Yarismasi-Oyunu
