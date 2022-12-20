@@ -1,0 +1,138 @@
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.exe
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.deps.json
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Form1.resources
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\refint\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\ref\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Oyun.resources
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.SoruEkle.resources
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll.config
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CopyComplete
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Form1.resources
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Oyun.resources
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.SoruEkle.resources
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\refint\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.exe
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll.config
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.deps.json
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CopyComplete
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\ref\BilgiYarismasiOyunu.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.exe
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll.config
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.deps.json
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.runtimeconfig.json
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.AssemblyReference.cache
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Form1.resources
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Oyun.resources
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.SoruEkle.resources
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfoInputs.cache
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfo.cs
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CopyComplete
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\refint\BilgiYarismasiOyunu.dll
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.genruntimeconfig.cache
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\ref\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.exe
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll.config
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.deps.json
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Form1.resources
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Oyun.resources
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.SoruEkle.resources
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CopyComplete
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\refint\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Downloads\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\ref\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Properties.Resources.resources
+C:\Users\İlker\Desktop\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Properties.Resources.resources
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.exe
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll.config
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.deps.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.runtimeconfig.json
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.AssemblyReference.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Form1.resources
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Oyun.resources
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.Properties.Resources.resources
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.SoruEkle.resources
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.GenerateResource.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfoInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.AssemblyInfo.cs
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.csproj.CopyComplete
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\refint\BilgiYarismasiOyunu.dll
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.pdb
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\BilgiYarismasiOyunu.genruntimeconfig.cache
+C:\Users\SABAH YAZILIM\Desktop\C# NOTE\Proje\BilgiYarismasiOyunu\BilgiYarismasiOyunu\BilgiYarismasiOyunu\obj\Debug\net6.0-windows\ref\BilgiYarismasiOyunu.dll
