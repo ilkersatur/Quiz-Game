@@ -1,15 +1,15 @@
 # Quiz Game
 - Quiz game for Windows Forms App
-- Written by Ilker Satur
+- Written by Ilker Satur 👨‍💻
 - Under The MIT License (MIT)
-- Copyright (c) 2022 Ilker Satur
+- Copyright © 2022 Ilker Satur
 
 # Features
 - Educational (General knowledge).
 - Added comments above code so it will help you understand code much better 
-- It has database to store questions 
-- Correct answer increases the prize money (Money at right corner)
-- Timmer of 30 sec for each question (Timer bar at center)
+- It has database to store questions
+- Correct answer increases the prize money 💲💲💲 (Money at right corner)
+- ⏳ Timmer of 30 sec for each question (Timer bar at center)
 - Random questions at each play (It will peek random ques and will show it to the user)
 - Good and Extensible UI.
 - Can be played offline 
@@ -24,17 +24,17 @@
 
 
 
-# Notice
+# 📌Notice
 - Feel free to import the project in Windows Form App it is for educational purpose (to learn to build the quiz type Windows Forms App)
 - If you do like what you saw please give it a star!! ⭐ it mean a lot to me it boosts me to build more game and help you guys.
-- For any details or query fill free to email me - ilkersatur@gmail.com
+- For any details or query fill free to email me - ilkersatur@gmail.com ❤️
 
 
-# License
+# License 
 <pre>
 MIT License
 
-Copyright (c) 2022 Ilker Satur
+Copyright ©️ 2022 Ilker Satur
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
