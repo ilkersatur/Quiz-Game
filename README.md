@@ -18,8 +18,8 @@
 
 # Screenshots
 <div width=100%>
-<img src='https://raw.githubusercontent.com/ilkersatur/Quiz-Game/main/img/mainpage.png' height=250px>
-<img src='https://github.com/ilkersatur/Quiz-Game/blob/main/img/gameplay.gif?raw=true' height=250px align=right>
+<img src='https://raw.githubusercontent.com/ilkersatur/Quiz-Game/main/img/mainpage.png' height=220px>
+<img src='https://github.com/ilkersatur/Quiz-Game/blob/main/img/gameplay.gif?raw=true' height=220px align=right>
 </div>
 
 
@@ -34,7 +34,7 @@
 <pre>
 MIT License
 
-Copyright (c) 2017 Ilker Satur
+Copyright (c) 2022 Ilker Satur
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
