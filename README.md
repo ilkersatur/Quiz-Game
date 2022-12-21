@@ -4,7 +4,7 @@
 - Under The MIT License (MIT)
 - Copyright © 2022 Ilker Satur
 
-# Features
+# Features 🤍
 - Educational (General knowledge).
 - Added comments above code so it will help you understand code much better 
 - It has database to store questions
@@ -13,10 +13,10 @@
 - Random questions at each play (It will peek random ques and will show it to the user)
 - Good and Extensible UI.
 - Can be played offline 
-- Compatibility with Windows 7 and above
+- Compatibility with Windows 7 and above 💻
 - No macOS compatibility testing done
 
-# Screenshots
+# Screenshots 🎞
 <div width=100%>
 <img src='https://raw.githubusercontent.com/ilkersatur/Quiz-Game/main/img/mainpage.png' height=200px>
 <img src='https://github.com/ilkersatur/Quiz-Game/blob/main/img/gameplay.gif?raw=true' height=200px align=right>
