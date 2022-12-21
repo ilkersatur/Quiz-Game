@@ -18,8 +18,8 @@
 
 # Screenshots
 <div width=100%>
-<img src='https://raw.githubusercontent.com/ilkersatur/Quiz-Game/main/img/mainpage.png' height=220px>
-<img src='https://github.com/ilkersatur/Quiz-Game/blob/main/img/gameplay.gif?raw=true' height=220px align=right>
+<img src='https://raw.githubusercontent.com/ilkersatur/Quiz-Game/main/img/mainpage.png' height=200px>
+<img src='https://github.com/ilkersatur/Quiz-Game/blob/main/img/gameplay.gif?raw=true' height=200px align=right>
 </div>
 
 
